@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<Songlist>
+    <Band> S.Y.C. Band's Song List</Band>
+
+    <Song>
+        <Artist> Pink Floyd </Artist>
+        <Title> Wish you were here </Title>
+        <Genre> Rock </Genre>
+        <Year> 1975 </Year>
+    </Song>
+
+    <Song>
+        <Artist> Oasis </Artist>
+        <Title> Don't look back in anger </Title>
+        <Genre> Rock </Genre>
+        <Year> 1996 </Year>
+    </Song>
+
+    <Song>
+        <Artist> John Mayer </Artist>
+        <Title> Slow Dancing In A Burning Room </Title>
+        <Genre> Rock </Genre>
+        <Year> 2006 </Year>
+    </Song>
+
+    <Song>
+        <Artist> Sunset Rollercoaster</Artist>
+        <Title> Burgundy Red </Title>
+        <Genre> Rock </Genre>
+        <Year> 2016 </Year>
+    </Song>
+
+    <Song>
+        <Artist> ONE OK ROCK </Artist>
+        <Title> We Are </Title>
+        <Genre> Rock </Genre>
+        <Year> 2017 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> ARASHI </Artist>
+        <Title> Kazamidori </Title>
+        <Genre> J-pop </Genre>
+        <Year> 2005 </Year>
+    </Song>
+
+    <Song>
+        <Artist> Radwimps </Artist>
+        <Title> Sokkenai </Title>
+        <Genre> J-pop </Genre>
+        <Year> 2018 </Year>
+    </Song>
+
+    <Song>
+        <Artist> Lucky Tapes </Artist>
+        <Title> Actor (Blend Ver.) </Title>
+        <Genre> R&amp;B/Soul </Genre>
+        <Year> 2020 </Year>
+    </Song>
+
+    <Song>
+        <Artist> Kazuhito Yamashita</Artist>
+        <Title> Suite NO.1, BWV 1007: I. Prelude </Title>
+        <Genre> Classical </Genre>
+        <Year> 2008 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> Red Velvet </Artist>
+        <Title> Red Flavor </Title>
+        <Genre> K-pop </Genre>
+        <Year> 2017 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> TWICE </Artist>
+        <Title> YES OR YES </Title>
+        <Genre> K-pop </Genre>
+        <Year> 2018 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> BLACKPINK </Artist>
+        <Title> Kill This Love </Title>
+        <Genre> K-pop </Genre>
+        <Year> 2019 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> IZ*ONE </Artist>
+        <Title> FIESTA </Title>
+        <Genre> K-pop </Genre>
+        <Year> 2020 </Year>
+    </Song>
+
+
+    <Song>
+        <Artist> Aespa </Artist>
+        <Title> Next Level </Title>
+        <Genre> K-pop </Genre>
+        <Year> 2021 </Year>
+    </Song>
+
+
+
+    
+</Songlist>
